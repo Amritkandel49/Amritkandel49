@@ -35,7 +35,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-88C46C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-1685FC?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### 🗄️ Databases & Tools
@@ -48,23 +49,20 @@
 ---
 
 ## 💼 Featured Projects
-<!-- 
-Here are some of my notable projects. Click to explore 👇
+- 🎮 **[Three Men's Morris Game](https://github.com/Amritkandel49/three-mans-morris-game)** <br>
+Built the Three Men's Morris game with an AI opponent using the minimax algorithm with alpha-beta pruning
 
-- 🔬 **[Water Potability Prediction](https://github.com/yourusername/water-potability-prediction)**  
-  Machine learning model to classify water as safe/unsafe for drinking using SHAP for interpretability.
+- 🧱 **[2D Maze Generator and Solver](https://github.com/Amritkandel49/AI_labwork/blob/main/lab7/prims_algorithm_and_aStar.ipynb)** <br>
+Generated a maze using Prim's Algorithm and found the best route using A* Algorithm
 
-- 🎮 **[Three Men's Morris AI](https://github.com/yourusername/three-mens-morris-ai)**  
-  Game AI with Minimax and Alpha-Beta pruning for perfect strategy play.
+- 🚰 **[Water Potability Prediction](https://github.com/Amritkandel49/water-potability-prediction)** <br>
+Applied EDA, preprocessing over a water potability dataset and built model to predict water potability using different features 
 
-- 🧭 **[Maze Generator & Solver](https://github.com/yourusername/maze-ai)**  
-  Generate and solve mazes using Prim's and A* algorithms with visualization.
+- 🗓️ **[Kickstart: Futsal Booking System](https://github.com/Amritkandel49/futsal-booking-system)** <br>
+a comprehensive platform that simplifies the process of registering, booking, and managing futsal turfs built using Postgres, Express Js, React Js and Node Js
 
-<!-- - 📊 **[Sales Dashboard (Power BI)](https://github.com/yourusername/sales-dashboard)**  
-  Interactive dashboard for sales data visualization using KPIs and slicers. -->
-
-- 🧠 **[Neural Network From Scratch](https://github.com/yourusername/nn-from-scratch)**  
-  Educational deep dive into neural nets with manual forward and backward propagation. -->
+- 📈 **[Equation Visualizer](https://github.com/Amritkandel49/Equation-Visualizer)** <br>
+Displays the graph of any second degree polynomial equation given to it. Built using C++ and SFML
 
 ---
 
@@ -83,9 +81,19 @@ Here are some of my notable projects. Click to explore 👇
 ---
 
 ## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amrit-kandel-b486ba1b8/)
-- 📬 Email: amritkandel062@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrit-kandel-b486ba1b8/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:amritkandel062@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/amrit.kandel.162331" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+</p>
 <!-- - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) _(optional)_ -->
 
 ---
