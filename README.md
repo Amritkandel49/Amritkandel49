@@ -81,6 +81,7 @@ Displays the graph of any second degree polynomial equation given to it. Built u
     </span>
 #  </p>
 -->
+---
 
 ## 📫 Let's Connect
 <p align="center">
