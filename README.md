@@ -69,8 +69,8 @@ a comprehensive platform that simplifies the process of registering, booking, an
 Displays the graph of any second degree polynomial equation given to it. Built using C++ and SFML
 
 ---
-
-#  ## 📈 GitHub Stats
+<!-- 
+## 📈 GitHub Stats
   
 #  <p align="center">
     <span>
@@ -81,7 +81,7 @@ Displays the graph of any second degree polynomial equation given to it. Built u
       <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritkandel49&layout=compact&theme=tokyonight" />
     </span>
 #  </p>
-
+-->
 ---
 
 ## 📫 Let's Connect
