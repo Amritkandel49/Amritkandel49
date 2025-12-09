@@ -70,17 +70,17 @@ Displays the graph of any second degree polynomial equation given to it. Built u
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <span>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Amritkandel49&show_icons=true&theme=tokyonight" />
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritkandel49&layout=compact&theme=tokyonight" />
-  </span>
-</p>
+#  ## 📈 GitHub Stats
+  
+#  <p align="center">
+    <span>
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Amritkandel49&show_icons=true&theme=tokyonight" />
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span>
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritkandel49&layout=compact&theme=tokyonight" />
+    </span>
+#  </p>
 
 ---
 
