@@ -68,7 +68,6 @@ a comprehensive platform that simplifies the process of registering, booking, an
 - 📈 **[Equation Visualizer](https://github.com/Amritkandel49/Equation-Visualizer)** <br>
 Displays the graph of any second degree polynomial equation given to it. Built using C++ and SFML
 
----
 <!-- 
 ## 📈 GitHub Stats
   
@@ -82,7 +81,6 @@ Displays the graph of any second degree polynomial equation given to it. Built u
     </span>
 #  </p>
 -->
----
 
 ## 📫 Let's Connect
 <p align="center">
